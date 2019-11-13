@@ -26,8 +26,8 @@ Recommended
 
 #### Step 5: Follow the course (2 parts)
 
-1 -Python-basics
-2- Machine learning basics
+1. Python-basics
+2. Machine learning basics
 
 Watch "machine learning watermelon"
 
@@ -39,5 +39,5 @@ https://www.autodraw.com/
  
 or https://quickdraw.withgoogle.com/
  
-3- Coding 
+3. Coding 
 
