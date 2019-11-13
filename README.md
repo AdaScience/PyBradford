@@ -4,6 +4,8 @@ Python + Machine Learning workshop for beginners
 ### Installation and Prerequisites
 
 #### Step 1: Install Python 3.7.5 from https://www.python.org/downloads/ or download from the github repository (python file included)
+
+download "Windows x86-64 executable installer"
 You may need to restart after installation
 
 #### Step 2: Download the requirements.txt file
