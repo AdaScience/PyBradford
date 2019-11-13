@@ -28,12 +28,16 @@ Recommended
 
 1 -Python-basics
 2- Machine learning basics
--- Watch "machine learning watermelon" :)
+
+Watch "machine learning watermelon"
+
 https://www.youtube.com/watch?v=rXGqKJoQ4qM
- -- Play with machine learning
- https://www.autodraw.com/
+
+Play with machine learning
+
+https://www.autodraw.com/
  
- or https://quickdraw.withgoogle.com/
+or https://quickdraw.withgoogle.com/
  
 3- Coding 
 
